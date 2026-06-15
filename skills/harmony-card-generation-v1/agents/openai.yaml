@@ -1,0 +1,4 @@
+interface:
+  display_name: "Harmony Card Generation"
+  short_description: "Generate HarmonyOS GenUI desktop cards from one sentence."
+  default_prompt: "Use $harmony-card-generation to generate a HarmonyOS GenUI desktop card from one sentence."
