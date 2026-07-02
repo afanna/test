@@ -54,3 +54,7 @@ coverage/
 *.tar.gz
 *.tgz
 *.rar
+
+# AI tools
+.claude
+.agents
